@@ -1,3 +1,6 @@
 Mushroom
 Onion
 Tomato
+Chicken
+beef
+salad
